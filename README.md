@@ -9,8 +9,8 @@ Get Historical Stock Data from Yahoo Finance
 ## Example
 ```python
 stock = 'GOOG'
-start = 02/01/2005
-end = 02/01/2019
+start = '02/01/2005'
+end = '02/01/2019'
 frequency = 'daily'   #'daily' / 'weekly' / 'monthly'
 df = GetHistoricalData(stock, start, end, frequency)
 df

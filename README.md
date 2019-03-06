@@ -2,7 +2,7 @@
 Get Historical Stock Data from Yahoo Finance
 
 ## Usage
-##### 1). Download HistoricalData.ipynb
+##### 1). Download YahooFinanceWebCrawler.ipynb
 ##### 2). Run the notebook
 ##### 3). Call GetHistoricalData with stock price, start date, end date, and frequency to get data.
 
